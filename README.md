@@ -1,5 +1,6 @@
-# Angular Google Plus Sign-in Button Directive
+﻿# Angular Google Plus Sign-in Button Directive
 
+(Added to bower)
 
 [Homepage](https://github.com/sirkitree/angular-directive.g-signin)
 
