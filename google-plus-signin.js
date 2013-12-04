@@ -1,4 +1,4 @@
-'use strict';
+﻿'use strict';
 
 /*
  * angular-google-plus-directive v0.0.1
@@ -6,8 +6,8 @@
  * Copying is an act of love. Please copy.
  */
 
-angular.module('directive.g+signin', []).
-  directive('g+signin', function () {
+angular.module('directive.gsignin', []).
+  directive('gsignin', function () {
     return {
       restrict: 'E',
       template: '<span></span>',
