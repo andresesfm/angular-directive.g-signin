@@ -27,7 +27,7 @@ bower install angular-directive.g+signin
 See the [homepage](https://github.com/sirkitree/angular-directive.g-signin) for an example. 
 
 ```html
-<div ng-app="directive.g+signin">
+<div ng-app="directive.gsignin">
   <g+signin clientid="620125449078"></g+signin>
   <p>^ This is a Google Plus sign-in button</p>
 </div>
