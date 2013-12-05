@@ -1,6 +1,6 @@
 ﻿# Angular Google Plus Sign-in Button Directive
 
-(Added to bower)
+It was originally forked from sirkitree. The differences are that it doesn't include special characters in the directive name and it is registered on bower
 
 [Homepage](https://github.com/sirkitree/angular-directive.g-signin)
 
